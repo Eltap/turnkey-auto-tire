@@ -240,6 +240,13 @@ section {
   font-weight: 600;
 }
 
+img.photo-placeholder {
+  background: none;
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}
+
 /* Contact */
 .contact-grid {
   display: grid;
